@@ -7,4 +7,16 @@
     <RootNamespace>Personal_Meeting_Scheduling_Platform</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\UserRegisterationForm\Controllers\" />
+    <Folder Include="Areas\UserRegisterationForm\Data\" />
+    <Folder Include="Areas\UserRegisterationForm\Models\" />
+    <Folder Include="Areas\UserRegisterationForm\Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
 </Project>
