@@ -12,14 +12,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\" />
     <Folder Include="Areas\UserLoginForm\Controllers\" />
     <Folder Include="Areas\UserLoginForm\Data\" />
     <Folder Include="Areas\UserLoginForm\Models\" />
     <Folder Include="Areas\UserLoginForm\Views\" />
-    <Folder Include="Areas\UserRegisterationForm\Controllers\" />
     <Folder Include="Areas\UserRegisterationForm\Models\" />
-    <Folder Include="Areas\UserRegisterationForm\Views\" />
   </ItemGroup>
 
 </Project>
