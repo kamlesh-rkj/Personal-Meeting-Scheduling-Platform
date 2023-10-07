@@ -18,7 +18,6 @@
     <Folder Include="Areas\UserLoginForm\Models\" />
     <Folder Include="Areas\UserLoginForm\Views\" />
     <Folder Include="Areas\UserRegisterationForm\Controllers\" />
-    <Folder Include="Areas\UserRegisterationForm\Data\" />
     <Folder Include="Areas\UserRegisterationForm\Models\" />
     <Folder Include="Areas\UserRegisterationForm\Views\" />
   </ItemGroup>
