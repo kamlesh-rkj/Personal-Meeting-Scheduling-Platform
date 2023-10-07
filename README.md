@@ -1,1 +1,0 @@
-# Personal Meeting Scheduling Platform
